@@ -1,0 +1,133 @@
+<2020-01-13 19:39:45> $panda
+<2020-01-13 19:39:45> b'{"link":"https://i.imgur.com/fClJeO6.jpg"}'
+<2020-01-13 19:39:47> $pandas
+<2020-01-13 19:39:50> $dog
+<2020-01-13 19:39:50> {"fact":"Given their druthers, dogs will poop facing the North-South magnetic axis. Scientists have no theories yet as to why."}
+<2020-01-13 19:39:52> $pand
+<2020-01-15 21:04:43> $meme
+<2020-01-15 21:04:43> b'{"id":11,"image":"https://i.some-random-api.ml/WgLubDy5Q1.png","caption":"Root of all evil??","category":"math"}'
+<2020-01-15 21:04:46> $memes
+<2020-01-15 21:04:49> $meme
+<2020-01-15 21:04:50> b'{"id":12,"image":"https://i.some-random-api.ml/07jjUxQKNf.png","caption":"Ooof","category":"random"}'
+<2020-01-15 21:14:13> $meme
+<2020-01-15 21:14:13> e08d523.jpg
+<2020-01-15 21:14:15> $meme
+<2020-01-15 21:14:16> 49896562_1199072630245799_5718027911219380224_n.jpg
+<2020-01-15 21:14:18> ooof
+<2020-01-18 16:18:53> $rte
+<2020-01-18 16:18:53> https://cdn.discordapp.com/attachments/381963689470984203/473174040916525077/unknown.png
+<2020-01-18 16:20:19> 
+<2020-01-18 16:26:18> $nickchange 1
+<2020-01-18 16:26:19> changing all nicknames on server to 1
+<2020-01-18 16:29:20> $nickchange 1
+<2020-01-18 16:29:23> changing Juice nickname on server to 1
+<2020-01-18 16:30:07> $nickchange 1
+<2020-01-18 16:30:07> changing Juice nickname on server to 1
+<2020-01-18 16:30:45> $dm
+<2020-01-18 16:30:46> $dm
+<2020-01-18 16:30:47> $dm
+<2020-01-18 16:30:48> $dm
+<2020-01-18 16:36:51> $hi
+<2020-01-18 16:36:56> $8ball hellpo
+<2020-01-18 16:36:57> Question: hellpo
+Answer: My sources say no.
+<2020-01-18 16:39:38> $8ball hi
+<2020-01-18 16:39:39> Question: hi
+Answer: Reply hazy, try again.
+<2020-01-18 16:49:51> $8ball burh
+<2020-01-18 16:49:51> Question: burh
+Answer: Ask again later.
+<2020-01-18 16:57:04> $randomsentence
+<2020-01-18 16:57:04> A bot will make a sentence using grammar, it will not make sense, but works in a grammar sense
+<2020-01-18 16:57:05> more info: read book
+<2020-01-18 16:57:50> $randomsentence
+<2020-01-18 16:57:51> A bot will make a sentence using grammar, it will not make sense, but works in a grammar sense
+<2020-01-18 16:57:51> more info: read book https://www.amazon.com/Language-Instinct-Creates-Perennial-Classics/dp/0061336467/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=
+<2020-01-18 16:59:16> $r
+<2020-01-18 16:59:20> $randomsentence
+<2020-01-18 16:59:20> A bot will make a sentence using grammar, it will not make sense, but works in a grammar sense
+<2020-01-18 16:59:20> more info: read book https://www.amazon.com/Language-Instinct-Creates-Perennial-Classics/dp/0061336467/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=
+<2020-01-18 16:59:22> oof
+<2020-01-19 22:28:51> $graph 2 * x +1
+<2020-01-20 09:27:50> 
+<2020-01-20 09:38:10> 
+<2020-01-20 09:38:17> yeeeee
+<2020-02-01 10:52:00> $test
+<2020-02-01 10:52:00> test
+<2020-02-01 10:53:57> <googletrans.client.Translator object at 0x18D31400>
+<2020-02-09 18:05:02> $help
+<2020-02-09 18:05:03> 
+<2020-02-09 18:05:03> API COMMANDS
+<2020-02-09 18:05:03> Joke, Panda, Dog
+<2020-02-09 18:42:21> 
+<2020-02-09 18:42:45> waat...
+<2020-02-09 18:42:48> yes you do
+<2020-02-09 18:46:45> 
+<2020-02-09 19:21:06> 
+<2020-03-16 09:55:03> $help
+<2020-03-16 09:55:03> 
+<2020-03-16 09:55:04> API COMMANDS
+<2020-03-16 09:55:04> Joke, Panda, Dog
+<2020-03-16 09:55:08> $joke
+<2020-03-16 09:55:12> $panada
+<2020-03-16 09:55:16> $panda
+<2020-03-16 09:55:16> b'{"link":"https://i.imgur.com/rWxR825.jpg"}'
+<2020-03-27 21:59:31> $reverse help
+<2020-03-27 21:59:31> <reversed object at 0x18905550>
+<2020-04-05 12:09:48> $minecraft
+<2020-04-05 12:09:53> $minecraft 1
+<2020-04-05 12:12:00> $minecraft 1
+<2020-04-05 12:12:13> $minecraft 1
+<2020-04-05 12:13:07> $minecraft 1
+<2020-04-05 12:14:56> $minecraft 1
+<2020-04-05 12:15:41> $minecraft 1
+<2020-04-05 12:16:12> $minecraft 1
+<2020-04-05 12:16:30> $mock hello
+<2020-04-05 12:16:30> 
+<2020-04-05 12:17:20> $mock hello
+<2020-04-05 12:17:20> hello
+<2020-04-05 12:17:20> 
+<2020-04-05 12:17:49> $minecraft hello
+<2020-04-05 12:19:08> $minecraft hello
+<2020-04-05 12:19:55> $minecraft hello
+<2020-04-05 12:21:32> $minecraft hello
+<2020-04-05 12:21:56> $minecraft hello
+<2020-04-05 12:22:22> $minecraft hello
+<2020-04-05 12:22:40> $minecraft hello
+<2020-04-05 12:22:40> 
+<2020-04-05 12:25:05> $minecraft hello
+<2020-04-05 12:25:06> 
+<2020-04-05 12:27:10> $minecraft hello
+<2020-04-05 12:27:11> 
+<2020-04-05 12:27:27> $minecraft hello
+<2020-04-05 12:27:28> 
+<2020-04-05 12:27:35> $minecraft hello
+<2020-04-05 12:27:35> 
+<2020-04-05 12:27:52> $minecraft hello
+<2020-04-05 12:27:53> 
+<2020-04-05 12:28:09> $minecraft hello
+<2020-04-05 12:28:10> 
+<2020-04-05 12:28:17> $minecraft hello
+<2020-04-05 12:28:17> 
+<2020-04-05 12:28:27> $minecraft hello
+<2020-04-05 12:28:27> 
+<2020-04-05 12:28:34> $minecraft hello
+<2020-04-05 12:28:34> 
+<2020-04-05 12:28:51> $minecraft hello
+<2020-04-05 12:28:52> 
+<2020-04-05 12:33:28> $minecraft hello
+<2020-04-05 12:38:12> $minecraft hello
+<2020-04-05 12:40:35> $minecraft hello
+<2020-04-05 12:41:20> $minecraft hello
+<2020-04-05 12:43:02> $minecraft hello
+<2020-04-05 12:43:02> $minecraft hello
+<2020-04-05 12:43:03> 
+<2020-04-05 12:43:03> 
+<2020-04-05 12:43:07> yessss
+<2020-04-05 12:43:07> yessss
+<2020-04-05 12:43:09> it works
+<2020-04-05 12:43:09> it works
+<2020-04-09 10:09:13> $warn <@!372189580968853504>
+<2020-04-09 10:09:34> $hack
+<2020-04-09 10:09:34> ok hacking
+<2020-04-09 10:09:34> <Message id=697855756837322842 channel=<TextChannel id=643601545492955139 name='general-chat' position=6 nsfw=True news=False category_id=643521086515838986> type=<MessageType.default: 0> author=<Member id=603773396869709861 name='arexepicbot' discriminator='7414' bot=True nick=None guild=<Guild id=638217405792911380 name='r/tiktokistherealvirus' shard_id=None chunked=True member_count=43>>>
